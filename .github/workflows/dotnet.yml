@@ -1,35 +1,3 @@
-Skip to content
-Search or jump to…
-Pulls
-Issues
-Marketplace
-Explore
- 
-@Reekwind 
-Reekwind
-/
-Machine-Form
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-More
-Machine-Form/VM827.Yaml
-@Reekwind
-Reekwind Add files via upload
-Latest commit ab4ef74 2 minutes ago
- History
- 1 contributor
-94 lines (86 sloc)  2.93 KB
-   
-
-github -b 
-go
-
  create 
     mode 
     github/workflows/Travels-The-Path.yml
@@ -83,7 +51,7 @@ From: =?UTF-8?q?Jesper=20Bringst=C3=A5l-M=C3=A5rtensson?=
  name: Labeler
 -on: [pull_request]
 +on: push
- 
+
  jobs:
    label:
      steps:
@@ -111,25 +79,3 @@ From: =?UTF-8?q?Jesper=20Bringst=C3=A5l-M=C3=A5rtensson?=
 +    # Used to specify a package manager for caching in the default directory. Supported values: npm, yarn, pnpm
 +    cache: https://github.com/Creakthistle/MyMLApp/blob/Creakthistle-path-Travel/Resources/Baseshape.xml
 +    # Used to specify the path to a dependency file: package-lock.json, yarn.lock, etc. Supports wildcards or a list of file names for caching multiple dependencies.
-
- Resources/{Baseshape.xml => Paddle.xml} | 0
- 1 file changed, 0 insertions(+), 0 deletions(-)
- rename Resources/{Baseshape.xml => Paddle.xml} (100%)
-
-diff --git a/Resources/Baseshape.xml b/Resources/Paddle.xml
-similarity index 100%
-rename from Resources/Baseshape.xml
-rename to Resources/Paddle.xml
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
