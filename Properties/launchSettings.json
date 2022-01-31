@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SentimentModel.mbconfig": {
+      "commandName": "Project",
+      "nativeDebugging": false,
+      "sqlDebugging": false,
+      "workingDirectory": "J:\\Unifo\\source\\repos"
+    }
