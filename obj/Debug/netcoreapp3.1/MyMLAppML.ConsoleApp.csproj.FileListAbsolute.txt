@@ -1,0 +1,5 @@
+J:\Unifo\source\repos\MyMLAppML.ConsoleApp\obj\Debug\netcoreapp3.1\MyMLAppML.ConsoleApp.csproj.AssemblyReference.cache
+J:\Unifo\source\repos\MyMLAppML.ConsoleApp\obj\Debug\netcoreapp3.1\MyMLAppML.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+J:\Unifo\source\repos\MyMLAppML.ConsoleApp\obj\Debug\netcoreapp3.1\MyMLAppML.ConsoleApp.AssemblyInfoInputs.cache
+J:\Unifo\source\repos\MyMLAppML.ConsoleApp\obj\Debug\netcoreapp3.1\MyMLAppML.ConsoleApp.AssemblyInfo.cs
+J:\Unifo\source\repos\MyMLAppML.ConsoleApp\obj\Debug\netcoreapp3.1\MyMLAppML.ConsoleApp.csproj.CoreCompileInputs.cache
