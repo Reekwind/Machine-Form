@@ -16,8 +16,8 @@ namespace MyMLAppML.ConsoleApp
 {
     public static class ModelBuilder
     {
-        private static readonly string TRAIN_DATA_FILEPATH = @"J:\Unifo\source\repos\MyMLApp\yelp_labelled.txt";
-        private static readonly string MODEL_FILEPATH = @"C:\Users\Unifo\AppData\Local\Temp\MLVSTools\MyMLAppML\MyMLAppML.Model\MLModel.zip";
+        private static readonly string TRAIN_DATA_FILEPATH = @"yelp_labelled.txt";
+        private static readonly string MODEL_FILEPATH = @"NA";
 
         public static MLContext GetMlContext()
         {
