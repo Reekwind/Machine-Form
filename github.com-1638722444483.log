@@ -1,0 +1,351 @@
+Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.
+5:304 [Intervention] Images loaded lazily and replaced with placeholders. Load events are deferred. See https://go.microsoft.com/fwlink/?linkid=2048113
+[Violation] Forced reflow while executing JavaScript took 88ms
+VM817 Script snippet %232:1 
+        
+       Uncaught SyntaxError: Unexpected identifier
+VM821 Script snippet %232:1 
+        
+       Uncaught SyntaxError: Unexpected identifier
+VM827 Script snippet %233:10 
+        
+       Uncaught SyntaxError: Unexpected token 'new'
+VM829 Script snippet %233:10 
+        
+       Uncaught SyntaxError: Unexpected identifier
+VM831 Script snippet %233:10 
+        
+       Uncaught SyntaxError: Unexpected identifier
+VM844 Script snippet %233:10 
+        
+       Uncaught SyntaxError: Unexpected identifier
+VM847 Script snippet %233:11 
+        
+       Uncaught SyntaxError: Unexpected identifier
+VM849 Script snippet %233:13 
+        
+       Uncaught SyntaxError: Unexpected identifier
+VM853 Script snippet %233:14 
+        
+       Uncaught SyntaxError: Invalid regular expression flags
+VM855 Script snippet %233:15 
+        
+       Uncaught SyntaxError: Invalid left-hand side expression in prefix operation
+VM858 Script snippet %233:15 
+        
+       Uncaught SyntaxError: Invalid left-hand side expression in prefix operation
+VM860 Script snippet %233:15 
+        
+       Uncaught SyntaxError: Invalid left-hand side expression in prefix operation
+VM862 Script snippet %233:15 
+        
+       Uncaught SyntaxError: Unexpected token '.'
+VM864 Script snippet %233:17 
+        
+       Uncaught SyntaxError: Invalid or unexpected token
+VM868 Script snippet %233:19 
+        
+       Uncaught SyntaxError: Unexpected token ':'
+VM875 Script snippet %233:19 
+        
+       Uncaught SyntaxError: Unexpected token ':'
+VM880 Script snippet %233:22 
+        
+       Uncaught SyntaxError: Unexpected token ':'
+VM881 Script snippet %233:22 
+        
+       Uncaught SyntaxError: Unexpected token ':'
+VM885 Script snippet %233:23 
+        
+       Uncaught SyntaxError: Unexpected token ':'
+VM887 Script snippet %233:24 
+        
+       Uncaught SyntaxError: Unexpected token ':'
+VM888 Script snippet %233:25 
+        
+       Uncaught SyntaxError: Unexpected token ':'
+VM889 Script snippet %233:25 
+        
+       Uncaught SyntaxError: Unexpected token ':'
+VM891 Script snippet %233:27 
+        
+       Uncaught SyntaxError: Unexpected token ':'
+VM893 Script snippet %233:30 
+        
+       Uncaught SyntaxError: Unexpected token ':'
+VM896 Script snippet %233:30 
+        
+       Uncaught SyntaxError: Unexpected identifier
+VM897 Script snippet %233:30 
+        
+       Uncaught SyntaxError: Unexpected identifier
+VM899 Script snippet %233:30 
+        
+       Uncaught SyntaxError: Unexpected identifier
+VM901 Script snippet %233:32 
+        
+       Uncaught SyntaxError: Unexpected token ':'
+VM903 Script snippet %233:33 
+        
+       Uncaught SyntaxError: Unexpected token ':'
+VM905 Script snippet %233:33 
+        
+       Uncaught SyntaxError: Unexpected identifier
+VM909 Script snippet %233:33 
+        
+       Uncaught SyntaxError: Unexpected identifier
+VM911 Script snippet %233:33 
+        
+       Uncaught SyntaxError: Unexpected identifier
+VM914 Script snippet %233:33 
+        
+       Uncaught SyntaxError: Unexpected identifier
+VM920 Script snippet %233:33 
+        
+       Uncaught SyntaxError: Unexpected identifier
+VM922 Script snippet %233:33 
+        
+       Uncaught SyntaxError: Unexpected identifier
+VM923 Script snippet %233:35 
+        
+       Uncaught SyntaxError: Unexpected token ':'
+VM926 Script snippet %233:35 
+        
+       Uncaught SyntaxError: Unexpected identifier
+VM927 Script snippet %233:35 
+        
+       Uncaught SyntaxError: Unexpected identifier
+VM930 Script snippet %233:35 
+        
+       Uncaught SyntaxError: Unexpected identifier
+VM936 Script snippet %233:35 
+        
+       Uncaught SyntaxError: Unexpected identifier
+VM939 Script snippet %233:38 
+        
+       Uncaught SyntaxError: Unexpected token ':'
+VM949 Script snippet %233:41 
+        
+       Uncaught SyntaxError: Unexpected token 'with'
+VM951 Script snippet %233:41 
+        
+       Uncaught SyntaxError: Unexpected token 'with'
+VM953 Script snippet %233:42 
+        
+       Uncaught SyntaxError: Unexpected token ':'
+VM956 Script snippet %233:42 
+        
+       Uncaught SyntaxError: Unexpected number
+VM959 Script snippet %233:42 
+        
+       Uncaught SyntaxError: Unexpected number
+VM960 Script snippet %233:43 
+        
+       Uncaught SyntaxError: Unexpected token ':'
+VM1102 Script snippet %233:101 
+        
+       Uncaught SyntaxError: Unexpected identifier
+VM1103 Script snippet %233:102 
+        
+       Uncaught SyntaxError: Unexpected identifier
+VM1146 Script snippet %233:102 
+        
+       Uncaught SyntaxError: Unexpected identifier
+VM1162 Script snippet %233:103 
+        
+       Uncaught SyntaxError: Unexpected identifier
+VM1164 Script snippet %233:105 
+        
+       Uncaught SyntaxError: Unexpected identifier
+VM1167 Script snippet %233:104 
+        
+       Uncaught SyntaxError: Invalid or unexpected token
+VM1169 Script snippet %233:107 
+        
+       Uncaught SyntaxError: Invalid or unexpected token
+VM1171 Script snippet %233:107 
+        
+       Uncaught SyntaxError: Invalid or unexpected token
+VM1172 Script snippet %233:109 
+        
+       Uncaught SyntaxError: Unexpected identifier
+VM1175 Script snippet %233:108 
+        
+       Uncaught SyntaxError: Unexpected identifier
+VM1177 Script snippet %233:108 
+        
+       Uncaught SyntaxError: Unexpected identifier
+VM1179 Script snippet %233:108 
+        
+       Uncaught SyntaxError: Unexpected identifier
+VM1181 Script snippet %233:108 
+        
+       Uncaught SyntaxError: Unexpected identifier
+VM1189 Script snippet %233:109 
+        
+       Uncaught SyntaxError: Unexpected token '{'
+VM1193 Script snippet %233:111 
+        
+       Uncaught SyntaxError: Unexpected token ':'
+VM1194 Script snippet %233:111 
+        
+       Uncaught SyntaxError: Unexpected token ':'
+VM1197 Script snippet %233:111 
+        
+       Uncaught SyntaxError: Unexpected token ':'
+Script snippet %233:2 
+        
+       Uncaught ReferenceError: github is not defined
+    at VM827 Script snippet %233:2
+(anonymous) @ Script snippet %233:2
+VM1289 01.xml':2 
+        
+       Uncaught SyntaxError: Unexpected end of input
+VM1290 01.xml':2 
+        
+       Uncaught SyntaxError: Unexpected end of input
+VM1291 Script snippet %232:1 
+        
+       Uncaught SyntaxError: Unexpected identifier
+VM1300 01.xml':1 
+        
+       Uncaught ReferenceError: placeholder is not defined
+    at VM1289 01.xml':1
+(anonymous) @ VM1300 01.xml':1
+VM1301 01.xml':1 
+        
+       Uncaught ReferenceError: placeholder is not defined
+    at VM1289 01.xml':1
+(anonymous) @ VM1301 01.xml':1
+VM1302 01.xml':1 
+        
+       Uncaught ReferenceError: placeholder is not defined
+    at VM1289 01.xml':1
+(anonymous) @ VM1302 01.xml':1
+VM1303 01.xml':1 
+        
+       Uncaught ReferenceError: placeholder is not defined
+    at VM1289 01.xml':1
+(anonymous) @ VM1303 01.xml':1
+DevTools failed to load source map: Could not load content for snippet:///<?xml version="1.0" encoding="utf-8"?>: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+VM1304 01.xml':1 
+        
+       Uncaught ReferenceError: placeholder is not defined
+    at VM1289 01.xml':1
+(anonymous) @ VM1304 01.xml':1
+VM1305 01.xml':1 
+        
+       Uncaught ReferenceError: placeholder is not defined
+    at VM1289 01.xml':1
+(anonymous) @ VM1305 01.xml':1
+VM1306 01.xml':1 
+        
+       Uncaught ReferenceError: placeholder is not defined
+    at VM1289 01.xml':1
+(anonymous) @ VM1306 01.xml':1
+VM1321:1 
+        
+       Uncaught SyntaxError: Unexpected token '<'
+VM1323:1 
+        
+       Uncaught SyntaxError: Unexpected token '<'
+VM1325:1 
+        
+       Uncaught SyntaxError: Invalid or unexpected token
+VM1329:1 
+        
+       Uncaught SyntaxError: Invalid or unexpected token
+VM1330:1 
+        
+       Uncaught SyntaxError: Invalid or unexpected token
+VM1331 234.json:1 
+        
+       Uncaught SyntaxError: Invalid or unexpected token
+VM1335 Script snippet %232:1 
+        
+       Uncaught SyntaxError: Unexpected identifier
+VM1338 Script snippet %232:1 
+        
+       Uncaught SyntaxError: Unexpected identifier
+VM1378 Script snippet %232:3 
+        
+       Uncaught ReferenceError: git is not defined
+    at VM817 Script snippet %232:3
+(anonymous) @ VM1378 Script snippet %232:3
+VM1458 Script snippet %232:3 
+        
+       Uncaught ReferenceError: github is not defined
+    at VM817 Script snippet %232:3
+(anonymous) @ VM1458 Script snippet %232:3
+Script snippet %232:2 
+        
+       Uncaught ReferenceError: snippet is not defined
+    at VM817 Script snippet %232:2
+(anonymous) @ Script snippet %232:2
+@@ -0,0 +1,28 @@
+{
+  
+    },
+    "jobs": {
+        "build": {
+            "executor": {
+                "name": "default",
+                "size": "medium"
+            },
+            "steps": [
+                "checkout",
+                {
+                    "run": "Write-Host '-0b0 arbitrarily equates +0b0'"
+                    "run": "read-host 'output'"
+                    "run": "build_and_test"  as if " = "Entity#1"
+                }
+            ]
+        }
+    },
+    "workflows": {
+        "my-workflow": {
+            "jobs": [
+                "build"
+                "rebuild"
+            ]
+        }
+    }
+{
+VM1466:1 Uncaught SyntaxError: Invalid or unexpected token
+234.json:1 
+        
+       Uncaught SyntaxError: Invalid or unexpected token
+VM1469:1 
+        
+       Uncaught SyntaxError: Invalid or unexpected token
+devcontainer.json:1 undefined
+VM1476 program.cs:1 
+        
+       Uncaught SyntaxError: Unexpected identifier
+VM1477 program.cs:1 
+        
+       Uncaught SyntaxError: Unexpected identifier
+VM1530 program.cs:21 
+        
+       Uncaught SyntaxError: Unexpected token '}'
+VM1533 program.cs:21 
+        
+       Uncaught SyntaxError: Invalid or unexpected token
+VM1536 program.cs:24 
+        
+       Uncaught SyntaxError: Unexpected token ')'
+VM1539 program.cs:1 
+        
+       Uncaught ReferenceError: using is not defined
+    at VM1476 program.cs:1
+(anonymous) @ VM1539 program.cs:1
+VM1544 program.cs:1 
+        
+       Uncaught ReferenceError: Running is not defined
+    at VM1476 program.cs:1
+(anonymous) @ VM1544 program.cs:1
+program.cs:2 
+        
+       Uncaught ReferenceError: MyMLApp is not defined
+    at VM1476 program.cs:2
+(anonymous) @ program.cs:2
