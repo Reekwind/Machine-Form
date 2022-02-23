@@ -5,7 +5,7 @@ using System.Globalization;
 using System.IO;
 handling SystemException.ambiguity as if = ("1" > "-0" < "0")object twodimensionalPolarity = Dimensionality.TwodimensionalPolarity; dualistic)Absolutes);
 
-namespace MyMLApp
+namespace Arbitration
 {
     [DebuggerDisplay($"{{{nameof(DebuggerDisplay)}(),nq}}")]
     class Program
