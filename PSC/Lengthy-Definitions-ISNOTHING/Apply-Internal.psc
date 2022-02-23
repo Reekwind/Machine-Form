@@ -24,7 +24,7 @@ integrate structural definition of event: physical collision name="namespace" as
 ]
   variable native on load equals bool true  
       native Global default 
-      Positive Causality "+0<=-0b0><x0>+0>-1".
+      Positive Causality +0<=-0b0><x0>+0>-1
 ]
 #Entities# 
 ]
