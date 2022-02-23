@@ -21,11 +21,9 @@
     cache-dependency-path: # optional
     # Deprecated. Use node-version instead. Will not be supported after October 1, 2019
     version: # optional
-    
-    
 - name: Download a Build Artifact
   uses: actions/download-artifact@v2.0.10
-  name: Conclusion
+  name: Result
     # Destination path
     path: Reekwind
 /
